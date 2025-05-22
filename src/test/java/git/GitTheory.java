@@ -23,6 +23,8 @@ public class GitTheory {
 //    Push= trimiterea modificarilor locale catre un repository remote( GIT LOCAL -> GIT HUB REMOTE)
 //    Pull= descarcarea ultimelor modificari de pe remote pe local ( GIT HUB REMOTE -> GIT LOCAL)
 
-//
+//    FACETI UN ALT EXEMPLU DIN OOP PE LUNI FOLOSIND ABSTRACTIZARE( CLASE ABSTRACTE SI INTERFETE) , MOSTENIRE, INCAPSULARE,
+//    POLIMORFISM ASEMANATOR
+//    CU EXEMPLUL DE LA CURS
 
 }
